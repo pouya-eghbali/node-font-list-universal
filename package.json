@@ -1,0 +1,18 @@
+{
+  "name": "font-list-universal",
+  "version": "1.0.0",
+  "description": "list system fonts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "font"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pouya-eghbali/node-font-list-universal"
+  },
+  "author": "Pouya Eghbali",
+  "license": "MIT"
+}
