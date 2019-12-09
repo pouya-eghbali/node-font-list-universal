@@ -1,19 +1,19 @@
-# font-list
+# font-list-universal
 
-`font-list` is a Node.js package for listing the fonts available on your system.
+`font-list-universal` is a Node.js package for listing the fonts available on your system.
 
 Current version supports **MacOS**, **Windows**, and **Unix** (**Linux**, **FreeBSD**, **NetBSD**, **OpenBSD**...).
 
 ## Install
 
 ```bash
-npm install font-list
+npm install font-list-universal
 ```
 
 ## Usage
 
 ```js
-const fontList = require('font-list')
+const fontList = require('font-list-universal')
 
 fontList.getFonts()
   .then(fonts => {
